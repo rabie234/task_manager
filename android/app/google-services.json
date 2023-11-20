@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019009371469",
+    "project_id": "support-f9015",
+    "storage_bucket": "support-f9015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019009371469:android:ea234fc2e70bf8a228fb04",
+        "android_client_info": {
+          "package_name": "com.example.softpro_support"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019009371469-tittm9f7apediai40jvsgkscrvnnivsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnb6rlxV2_UOSVRyfm6HgM7CmF3nSSDTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019009371469-tittm9f7apediai40jvsgkscrvnnivsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
